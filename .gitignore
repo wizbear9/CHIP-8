@@ -1,0 +1,5 @@
+# ROM files
+*.ch8
+
+# Build folder
+build/
